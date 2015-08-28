@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.linuxtools.gcov"
+      label="%featureName"
+      version="4.0.0.201506031638"
+      provider-name="%featureProvider">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="Linux Tools Update Site" url="http://download.eclipse.org/linuxtools/update"/>
+   </url>
+
+   <plugin
+         id="org.eclipse.linuxtools.gcov.core"
+         download-size="123"
+         install-size="243"
+         version="5.1.0.201506031638"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.linuxtools.gcov.docs"
+         download-size="303"
+         install-size="337"
+         version="1.0.0.201506031638"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.linuxtools.gcov.launch"
+         download-size="19"
+         install-size="32"
+         version="1.1.0.201506031638"
+         unpack="false"/>
+
+</feature>

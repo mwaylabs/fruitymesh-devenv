@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="ilg.gnuarmeclipse.managedbuild.cross"
+      label="%featureName"
+      version="1.13.1.201504061754"
+      provider-name="%providerName"
+      plugin="ilg.gnuarmeclipse.managedbuild.cross">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="ilg.gnuarmeclipse.managedbuild.cross"
+         download-size="115"
+         install-size="423"
+         version="1.13.1.201504061754"
+         unpack="false"/>
+
+   <plugin
+         id="ilg.gnuarmeclipse.packs.core"
+         download-size="31"
+         install-size="53"
+         version="1.1.2.201504061754"
+         unpack="false"/>
+
+   <plugin
+         id="ilg.gnuarmeclipse.core"
+         download-size="38"
+         install-size="68"
+         version="2.8.1.201504061754"
+         unpack="false"/>
+
+</feature>

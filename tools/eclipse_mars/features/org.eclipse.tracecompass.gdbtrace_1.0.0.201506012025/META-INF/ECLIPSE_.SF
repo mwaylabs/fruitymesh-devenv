@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: X+Ir5Uw5e42Df96zEN2zWQM+i0h7a
+ SRqef4QNL2wNMQ=
+SHA-256-Digest-Manifest: gl0MJhW6GvG7DrYwhKCqCmdq+SeNGir7fN0TSctoYGE=
+Created-By: 1.8.0_40 (Oracle Corporation)
+
+Name: p2.inf
+SHA-256-Digest: 4fKpGXAMS9T6+7/xxDbWF0e5onwxB0RQ7cFRtwy8ci8=
+
+Name: epl-v10.html
+SHA-256-Digest: 8GSw4aNBim+4CHFc1TYSYQy3Ei4T2BVP57HxmJUvTBs=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass
+ .gdbtrace/pom.xml
+SHA-256-Digest: zqA/H+7HZUYrpG1V4zeZCbNjczs8q6FO3vbEcamp0BE=
+
+Name: feature.xml
+SHA-256-Digest: uRw1PLfgrQbpjgyvnoXsu1gEIvzPokpLq+Warm1XREw=
+
+Name: feature.properties
+SHA-256-Digest: Yv1/oE8hxHXgy93so0SyImcHX3a+PbTGt9dNeEbiqBw=
+
+Name: license.html
+SHA-256-Digest: gb5ZzrbOyFArzDLUIG4huZV/GHHBYb0EtixuMKXnhqs=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass
+ .gdbtrace/pom.properties
+SHA-256-Digest: VhkjGXYQyCbGmyZnUvsvwtWBe38s9cHGkbcaHhAK4qY=
+

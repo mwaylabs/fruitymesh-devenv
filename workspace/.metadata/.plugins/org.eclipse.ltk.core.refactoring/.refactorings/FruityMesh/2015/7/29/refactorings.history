@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;FruityMesh/config/adafruit_ble_friend.h&apos; to &apos;board_adafruit_ble_friend.h&apos;" description="Rename resource &apos;adafruit_ble_friend.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="config/adafruit_ble_friend.h" name="board_adafruit_ble_friend.h" stamp="1436786842755" updateReferences="true"/>
+</session>

@@ -1,0 +1,11 @@
+17:26:50 **** Incremental Build of configuration Debug for project Blinky ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "Blinky.elf"
+   text	   data	    bss	    dec	    hex	filename
+   1928	     16	     28	   1972	    7b4	Blinky.elf
+Finished building: Blinky.siz
+ 
+
+17:26:50 Build Finished (took 169ms)
+

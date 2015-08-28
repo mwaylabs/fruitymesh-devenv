@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: X+Ir5Uw5e42Df96zEN2zWQM+i0h7a
+ SRqef4QNL2wNMQ=
+SHA-256-Digest-Manifest: ARp+WP3u6n/RlPjDyKaQAh6fucEIqeqPnxUsMshJdpk=
+Created-By: 1.8.0_40 (Oracle Corporation)
+
+Name: p2.inf
+SHA-256-Digest: iXe3UCwRLjd9JdZVZ3/hseRpLP/8b+SrrIc79sn6DW4=
+
+Name: epl-v10.html
+SHA-256-Digest: 8GSw4aNBim+4CHFc1TYSYQy3Ei4T2BVP57HxmJUvTBs=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass
+ .tmf/pom.properties
+SHA-256-Digest: SLuUCf5ExfJ69eFzfgHnFJrv9yYte1hbvSaU+bo29AA=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass
+ .tmf/pom.xml
+SHA-256-Digest: zI581SGKkDg76ymLK+jWvB+oFyntk4+YtVSnjfTctb8=
+
+Name: feature.xml
+SHA-256-Digest: RTslXHPQ7pH0UjctxW6WTgFlyyphMtBgZFelrFF54+o=
+
+Name: feature.properties
+SHA-256-Digest: 5oK6zoFSYZg72JFfljLYvI1BpjeqfZ7BotDOfJPxlB4=
+
+Name: license.html
+SHA-256-Digest: gb5ZzrbOyFArzDLUIG4huZV/GHHBYb0EtixuMKXnhqs=
+

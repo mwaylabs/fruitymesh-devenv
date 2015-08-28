@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.oomph.setup.ui.recorder.RecorderPoliciesDialog">
+		<item value="400" key="dialogHeight"/>
+		<item value="600" key="dialogWidth"/>
+	</section>
+	<section name="Updater">
+		<section name="ProgressPage">
+		</section>
+		<section name="ConfirmationPage">
+		</section>
+		<section name="VariablePage">
+		</section>
+	</section>
+</section>

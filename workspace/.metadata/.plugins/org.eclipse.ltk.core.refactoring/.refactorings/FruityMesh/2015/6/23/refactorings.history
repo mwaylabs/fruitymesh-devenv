@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;FruityMesh/src/utility/storage.cpp&apos; to &apos;Storage.cpp&apos;" description="Rename resource &apos;storage.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/utility/storage.cpp" name="Storage.cpp" stamp="1433240630918" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;FruityMesh/inc/storage.h&apos; to &apos;Storage.h&apos;" description="Rename resource &apos;storage.h&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="inc/storage.h" name="Storage.h" stamp="1433240641324" updateReferences="true"/>
+</session>

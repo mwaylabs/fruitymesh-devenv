@@ -1,0 +1,291 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: 3RrKUVbmh2NS3MyKmJ05/x1bzWe+C
+ 64L5XUagCUdAmE=
+SHA-256-Digest-Manifest: 5/MP9BnifVLjlM4GwO7C9Yb+VcnDIPqzzm7LB9BnXMU=
+Created-By: 1.8.0_40 (Oracle Corporation)
+
+Name: plugin.xml
+SHA-256-Digest: 6P7gWXL5EyK2rVv+QQPL26i6FkpLk7M79Knod3FGBDw=
+
+Name: org/eclipse/cdt/debug/application/ApplicationActionBarAdvisor.cl
+ ass
+SHA-256-Digest: 09KmimoBIHfSlqCxSEkRCIAjGtwbYbwUbN+xoUCJ9pU=
+
+Name: org/eclipse/cdt/debug/application/RemoteExecutableDialog$5.class
+SHA-256-Digest: e+DfXbN4qGxhrQ2wQ+tcm2uApCmdnJnjie0eLOIR9E0=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugRemoteExecutable
+ Handler.class
+SHA-256-Digest: AaqujEJ1pHBXylwzLUI8xF3a+U1Igh8B3qyu2GUAeSo=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchWindowAdvi
+ sor$PostWindowCreateRunnable$3.class
+SHA-256-Digest: Ps7y5U/3kbZfwix71OX56LYcKGnv2KOVv4BGGJ32qzg=
+
+Name: org/eclipse/cdt/debug/application/DummyPage.class
+SHA-256-Digest: kk9CdBcOERMnoUO6IABs6jsewStIDpHG2WYq6GljQYs=
+
+Name: scripts/README
+SHA-256-Digest: hKBUlVYcYLHnsWBKWRdoRFgauR8FDyMPVREnUMYIx/A=
+
+Name: org/eclipse/cdt/debug/application/CoreFileDialog$2.class
+SHA-256-Digest: 6VGECNklAI2MjdmRuSQNitCCJICKsaucOQU67wtd2Ko=
+
+Name: icons/cc.xpm
+SHA-256-Digest: khntacf82XUKk0Ln9V3nbQw2kqQvAFTi7ale3PquGks=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugCoreFileHandler.
+ class
+SHA-256-Digest: n1dg+R9IbNTDr7evpI0Pqa9zNvVdivJtoYa4mJ617uo=
+
+Name: org/eclipse/cdt/debug/application/ApplicationActionBarAdvisor$4.
+ class
+SHA-256-Digest: xAuIFuaG2S1m9jWtfaP9rkGcFtbngN91KFKfKO302ZQ=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugNewExecutableHan
+ dler$1.class
+SHA-256-Digest: +4TFuIL4m4ADdFLSZ9xluIysh2KyEgqGpsoeLe8Nwss=
+
+Name: org/eclipse/cdt/debug/application/Application.class
+SHA-256-Digest: ARZa5fitvrAQF3D9y2HOwoCTfr6O8gY4PKYNPiv8nww=
+
+Name: org/eclipse/cdt/debug/application/Activator.class
+SHA-256-Digest: nhy/Am1q6Z2/b8cSt+W+Bkf0hf/RbYDNyWGnSxJknjE=
+
+Name: org/eclipse/cdt/debug/application/RemoteExecutableDialog$1.class
+SHA-256-Digest: mokzUErWnGKJaj/41hJMmTyMyOrgxE/2c9wexhYdw3Q=
+
+Name: plugin.properties
+SHA-256-Digest: MAMAZ2EWxg9JLkdL6J+XPhRYzZbpIy35nWvfwNQ7A+0=
+
+Name: META-INF/maven/org.eclipse.cdt/org.eclipse.cdt.debug.application
+ /pom.xml
+SHA-256-Digest: Dvaq8e7djz8s+T0QElTIYE2+brwnZATCXjQoTHWHnh4=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchAdvisor.cl
+ ass
+SHA-256-Digest: /RqNtzcURQnlKR3exifB8CnCI5XgiWja9e5oCOjca20=
+
+Name: icons/cc64.png
+SHA-256-Digest: HCkV4wNCCJt8zNet+hvSzqHUUBl7hTaaElIUIzxGlqs=
+
+Name: org/eclipse/cdt/debug/application/ApplicationActionBarAdvisor$1.
+ class
+SHA-256-Digest: uB76NT5rddaNkx+QwKsqd49Slhif9ooOsTju834t0O0=
+
+Name: org/eclipse/cdt/debug/application/RemoteExecutableDialog.class
+SHA-256-Digest: tZst+7h/7f5Sj2PLd+pxJ8iC+vuWLUc5eHCwO8DbsO0=
+
+Name: org/eclipse/cdt/debug/application/CoreFileDialog$1.class
+SHA-256-Digest: V6Q8wmynAf+41BDdnywkD3ScGu38Wx/Pc70LSWW0I40=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugExecutable$1.cla
+ ss
+SHA-256-Digest: 2w2MBYzXO0lB5NxRXRZSEykgONdS6xSGVHU+9TrtnVo=
+
+Name: org/eclipse/cdt/debug/application/CoreFileDialog.class
+SHA-256-Digest: +HlzHAPBs8Dn8YNWmxDtQGv9ObcdDzMvGZou96fhrZI=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugAttachedExecutab
+ leHandler$1.class
+SHA-256-Digest: Yv6mtVCfuEKCHu+H4qmvSfK9uRiFEiM/6ht1ujJVzTQ=
+
+Name: icons/about.png
+SHA-256-Digest: LT2L+pKJOzWZKzdKjecSm4B7PCCOX7dUDo5AaZuYZz8=
+
+Name: org/eclipse/cdt/debug/application/ApplicationActionBarAdvisor$3.
+ class
+SHA-256-Digest: 74RjD1+O3AJ2Y82feXYW7GeQJ7bLCa11IrPJ4qYhczM=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugRemoteExecutable
+ .class
+SHA-256-Digest: s31MuDtvYaXcjS6YrR7ffGWT3iu+PEgB7PqYQ8u3WpY=
+
+Name: org/eclipse/cdt/internal/debug/application/JobContainer.class
+SHA-256-Digest: pg2p0WtFL0ngytDtV+7DTD1bbZSd9EbLLjrjSjLS1TM=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugCoreFileHandler$
+ 1.class
+SHA-256-Digest: V31P5zZo0G1ChrXFmQSpWgciV9hRovx8fE2yoCCbhF4=
+
+Name: org/eclipse/cdt/internal/debug/application/BuildOptionsParser.cl
+ ass
+SHA-256-Digest: 2XUpiXvWglklAkMOEoTU5JKaAm9UpSDmOY67ImvsIdQ=
+
+Name: org/eclipse/cdt/debug/application/Messages.class
+SHA-256-Digest: Zr/1DjUpA74e2+L5a2b147uIxakUtnSHN5snsxjcehQ=
+
+Name: org/eclipse/cdt/internal/debug/application/CustomizePerspectiveH
+ andler.class
+SHA-256-Digest: J96mE7eHApFyzWOwwQ5Lfzdn+qYEn3RtCy48HV+DFiY=
+
+Name: org/eclipse/cdt/internal/debug/application/CompilerOptionParser.
+ class
+SHA-256-Digest: 6cQlvn2B+7fvcakVSUFv/rVDeHBRXyiV9AczkqYBJhs=
+
+Name: org/eclipse/cdt/debug/application/CoreFileDialog$5.class
+SHA-256-Digest: W+colvD5gwhrVivcqGW0nx6rmH98C1AcUjC5ja77r2Y=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchWindowAdvi
+ sor$PostWindowCreateRunnable$1.class
+SHA-256-Digest: PzhZ9gG+krZzXNjMszK6pdsQkVz4n2l3VPU+2YkDwOo=
+
+Name: icons/cc32.png
+SHA-256-Digest: z8kEDnNdMnoZLzM6F6377LsxarQC5q/Kk/tVEP0jwuY=
+
+Name: org/eclipse/cdt/debug/application/Application$1.class
+SHA-256-Digest: IbNRXDH7BFl3IrETn6RSXRXJ9gqqPwHoBHxWxss+P6A=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchWindowAdvi
+ sor$PostWindowCreateRunnable$4.class
+SHA-256-Digest: bTwKbA++gZBiBqe6ViHt5+W4t0c14pOiMa2+zGkx5YI=
+
+Name: org/eclipse/cdt/debug/application/RemoteExecutableDialog$2.class
+SHA-256-Digest: y6/vxpXSGdoRXexfRTmmFz+jXUaIWk69AwjM1xyDsUA=
+
+Name: org/eclipse/cdt/debug/application/NewExecutableInfo.class
+SHA-256-Digest: qDhgyNxe/hpD9msco3fs1J6aYjPdLWGCRpEIuiNNBtY=
+
+Name: org/eclipse/cdt/debug/application/messages.properties
+SHA-256-Digest: O35NENjdP1pUGAuBWTvZk9vLIPNGFOp71bi2IeC5ZqA=
+
+Name: org/eclipse/cdt/debug/application/NewExecutableDialog$3.class
+SHA-256-Digest: TpKpHoZ1RhWR/76oKlmNuOg647vh6k+LhbyR07nVe3A=
+
+Name: org/eclipse/cdt/debug/application/NewExecutableDialog.class
+SHA-256-Digest: 5vbxMKtAbpjsr+vktSG94k0tlrhUv1ThNAr50Spw8+8=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchWindowAdvi
+ sor$PostWindowCreateRunnable$5.class
+SHA-256-Digest: 2wY25Ui4GlDN4wHmS/Cgyaw7662dLS8UJD9KuP3bQDM=
+
+Name: scripts/config.ini
+SHA-256-Digest: 7LmOeVhPlHYRtWLc/s+tn6Cj16nXlc2tZH6G4X8LNr0=
+
+Name: icons/cc.png
+SHA-256-Digest: B6qzeDLZUbdyIrCsECkvzS0s3uhHldWzj05xkpxF5xA=
+
+Name: org/eclipse/cdt/debug/application/ApplicationActionBarAdvisor$2.
+ class
+SHA-256-Digest: Z4LdReCSowZf+fy8J/aRGYds0a4H0JEMg0rKXpygwOM=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugNewExecutableHan
+ dler.class
+SHA-256-Digest: kSzXFiKr84igmUtJaDCN1bOSuQ8rZ4uVx05r6vXgaUY=
+
+Name: org/eclipse/cdt/debug/application/GCCCompileOptionsParser.class
+SHA-256-Digest: 2jTmZ5iIYxASSOmyUe4ozGixMmv4wtj2dCVG6IhoWz4=
+
+Name: org/eclipse/cdt/debug/application/ICDTStandaloneDebugLaunchConst
+ ants.class
+SHA-256-Digest: dedYxRt47Y83ZbszF7ZagSNtJoNfsPK3qPTDZs6yXkI=
+
+Name: org/eclipse/cdt/debug/application/NewExecutableDialog$1.class
+SHA-256-Digest: hoNVf3o/Qv5MgmgS6y+hhigfW1O2sykSTY+0Zas8Js0=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugCoreFile.class
+SHA-256-Digest: i+mTvanYphJoEae3WhlL4cHIz69cP59FQx0JELybcq8=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchWindowAdvi
+ sor$1.class
+SHA-256-Digest: 7FYnX0c0904Z8o1inahRpKXDuWPQKlK7sLPN8FzyptM=
+
+Name: org/eclipse/cdt/debug/application/CoreFileDialog$4.class
+SHA-256-Digest: bKTKoUd2VUtdI+g5jcool+uFsPOyyS87nH8hRuT3W/8=
+
+Name: scripts/cdtdebug.sh
+SHA-256-Digest: wauY7bQL44mZ79lmIGkRwXPhnXx9xd5paLp0SMRREr0=
+
+Name: icons/cc16.png
+SHA-256-Digest: U5WlDxGwSLJ3Dbt/e5Z/wtxay4oUgDq4eamgX2zxQiw=
+
+Name: org/eclipse/cdt/debug/application/RemoteExecutableInfo.class
+SHA-256-Digest: q41fJUTdceKru8L2D80AtTXEwsofJIoE1WgmgAT3dW4=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchWindowAdvi
+ sor$StartupException.class
+SHA-256-Digest: KqKE5otlYgsgmPoetQlYlHTeuKParpU3/SM3bJfLpvM=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugRemoteExecutable
+ Handler$1.class
+SHA-256-Digest: 9COm/zvKuPfUNkGFG5d//0DbKyRWcOoJL7x8RI+0s1k=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchWindowAdvi
+ sor$PostWindowCreateRunnable.class
+SHA-256-Digest: L0vR8vux17H5ZBPE5Du/QC7OrXK505lp7l2Awb9TuWw=
+
+Name: org/eclipse/cdt/debug/application/RemoteExecutableDialog$3.class
+SHA-256-Digest: ogGKge8Epzd6EGRA6+m5ginI6KzqLxQmSe/3wQk0TbA=
+
+Name: org/eclipse/cdt/debug/application/NewExecutableDialog$2.class
+SHA-256-Digest: y6ATRluJTs2XZ10gUlKXkNRJCtdfhI+lNTNeFFVM/FM=
+
+Name: META-INF/maven/org.eclipse.cdt/org.eclipse.cdt.debug.application
+ /pom.properties
+SHA-256-Digest: vrRx7I1XtHYT98Dc9UIfo3aghYOTVeXYakRel5F1Iug=
+
+Name: org/eclipse/cdt/debug/application/RemoteExecutableDialog$6.class
+SHA-256-Digest: jrLj36U+W1e70iB8hkfNoZrPLPCjBTy4tOmh1R0v96E=
+
+Name: about.html
+SHA-256-Digest: 5+05Wv6VwZnurPYSPbakG/mDm91M1cA3LPTQrCDB7Z0=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugAttachedExecutab
+ le.class
+SHA-256-Digest: bJ0R0Cwwx6pyC0e2Bsaa0dQJE9kUVwwHsQNkqCOiUu8=
+
+Name: org/eclipse/cdt/debug/application/NewExecutableDialog$4.class
+SHA-256-Digest: gNE1gXl3TDp+qRjpHSOX6dec93EhYGo/C1QDurID1x8=
+
+Name: icons/cc128.png
+SHA-256-Digest: zbR5FCW+/rpjVD/S7qBhmntrdhVOh7JfbzZScWT0x2I=
+
+Name: scripts/install.sh
+SHA-256-Digest: AlOWemGsH0XrM5nz/Ot4ZN02KCwhB2ISuFqEazagh+s=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchWindowAdvi
+ sor$PostWindowCreateRunnable$6.class
+SHA-256-Digest: RK0V2IrmMmvQFUSDZ/S/D6s0/GchWhoy+y6X8vy99is=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchWindowAdvi
+ sor.class
+SHA-256-Digest: 94ivuBkNzDmRF7vPF7cWaglgCCftD2LMHMwqsSZoFV0=
+
+Name: org/eclipse/cdt/debug/application/ApplicationActionBarAdvisor$Wo
+ rkbenchCommandAction.class
+SHA-256-Digest: 6ZtfIM0EJlK3u41PqM3vstFXQX4W3VL2IulPSfvWYHM=
+
+Name: org/eclipse/cdt/internal/debug/application/CompilerOptionParser$
+ CWDTracker.class
+SHA-256-Digest: xXz/UVAYX5R2PE7DQB+3PWAwTokvReirUW6QgWubrGA=
+
+Name: org/eclipse/cdt/debug/application/ApplicationWorkbenchWindowAdvi
+ sor$PostWindowCreateRunnable$2.class
+SHA-256-Digest: 7azV1JDdihjKOD5nsYp6xh6Pp8nXBSPBJoqprYiXRsU=
+
+Name: org/eclipse/cdt/debug/application/RemoteExecutableDialog$4.class
+SHA-256-Digest: 0TYJk/4OwmlTu+L0P1jS/kRBf3dCZjHJmfz9rVRkEAI=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugAttachedExecutab
+ leHandler.class
+SHA-256-Digest: JOSDUqSmaUhHkT/JxNcdoOwjygmHngJcvaQq2zhJ1vs=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugNewExecutableHan
+ dler$2.class
+SHA-256-Digest: utPxBTZlbr5gBtJoNG1oS+v3mIdTD4Ug7xylLMJNO2Q=
+
+Name: icons/cc48.png
+SHA-256-Digest: wSse2RBPFEYjy75ECQX5ijfvT/G+6ZJGQWmpHTUGSPk=
+
+Name: org/eclipse/cdt/debug/application/CoreFileDialog$3.class
+SHA-256-Digest: w8PGK5mg1q82k/2hTUG8bO7SvfP/d4OZ/lGXn21fTlo=
+
+Name: scripts/dev.properties
+SHA-256-Digest: /qLGbdyqczFYnUk5L2/O/VBS3euNx375DCd0+Cr7m3M=
+
+Name: org/eclipse/cdt/debug/application/CoreFileInfo.class
+SHA-256-Digest: yoJKtV/rCi5r2mbBT675h5yvXHnNNqY1Qw7DYbKOnm4=
+
+Name: org/eclipse/cdt/internal/debug/application/DebugExecutable.class
+SHA-256-Digest: 9JtmGckdanmRzZKCYcTA4QDk0u09c7N2i4QbN3HY/zI=
+

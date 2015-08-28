@@ -1,0 +1,29 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: X+Ir5Uw5e42Df96zEN2zWQM+i0h7a
+ SRqef4QNL2wNMQ=
+SHA-256-Digest-Manifest: PoHO2F9mC1Bsim4hxci/hUHKJ7WWlhcASCGOC0Yn6kU=
+Created-By: 1.8.0_40 (Oracle Corporation)
+
+Name: p2.inf
+SHA-256-Digest: moZGKw4c0axS5422uleMptJNLFBxL6e6uAkQDfZszYg=
+
+Name: epl-v10.html
+SHA-256-Digest: 8GSw4aNBim+4CHFc1TYSYQy3Ei4T2BVP57HxmJUvTBs=
+
+Name: feature.xml
+SHA-256-Digest: YJLL14Ak6xM06QrqKJ+ZX9jjKHZhz7Jsd5AHLJ5QVFI=
+
+Name: feature.properties
+SHA-256-Digest: KYz2oJdhqWRpa8GRAazCfbYm5DLsgKP0DHylEkIjrBg=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass
+ .lttng2.kernel/pom.xml
+SHA-256-Digest: Bgovx6axkhnRj3vCE64iM91KmIoSrZh7JJSomLt8SW8=
+
+Name: license.html
+SHA-256-Digest: gb5ZzrbOyFArzDLUIG4huZV/GHHBYb0EtixuMKXnhqs=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass
+ .lttng2.kernel/pom.properties
+SHA-256-Digest: mi8PPjs0WJN4IX9v6m1evdwXhW+4Q568f2pNH8F5QpU=
+

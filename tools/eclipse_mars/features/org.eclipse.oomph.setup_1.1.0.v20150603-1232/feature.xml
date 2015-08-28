@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Copyright (c) 2014 Eike Stepper (Berlin, Germany) and others.
+  All rights reserved. This program and the accompanying materials
+  are made available under the terms of the Eclipse Public License v1.0
+  which accompanies this distribution, and is available at
+  http://www.eclipse.org/legal/epl-v10.html
+
+  Contributors:
+    Eike Stepper - initial API and implementation
+-->
+<feature
+      id="org.eclipse.oomph.setup"
+      label="%featureName"
+      version="1.1.0.v20150603-1232"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <update label="%updateSiteName" url="http://www.eclipse.org/modeling/updates/"/>
+      <discovery label="%updateSiteName" url="http://www.eclipse.org/modeling/updates/"/>
+   </url>
+
+   <includes
+         id="org.eclipse.oomph.setup.core"
+         version="1.1.0.v20150602-1342"/>
+
+   <includes
+         id="org.eclipse.oomph.p2"
+         version="1.1.0.v20150602-1041"/>
+
+   <plugin
+         id="org.eclipse.oomph.setup.editor"
+         download-size="229"
+         install-size="499"
+         version="1.1.0.v20150602-0614"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.oomph.setup.ui"
+         download-size="433"
+         install-size="899"
+         version="1.1.0.v20150603-1232"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.oomph.setup.doc"
+         download-size="2548"
+         install-size="21121"
+         version="1.1.0.v20150527-0821"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.oomph.setup.ui.questionnaire"
+         download-size="331"
+         install-size="395"
+         version="1.1.0.v20150527-0821"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.oomph.jreinfo.ui"
+         download-size="49"
+         install-size="83"
+         version="1.1.0.v20150602-0614"
+         unpack="false"/>
+
+</feature>

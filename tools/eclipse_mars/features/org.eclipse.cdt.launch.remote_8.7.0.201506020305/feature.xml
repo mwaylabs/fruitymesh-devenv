@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.cdt.launch.remote"
+      label="%featureName"
+      version="8.7.0.201506020305"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.cdt.launch.remote"
+         download-size="90"
+         install-size="172"
+         version="2.4.0.201506020305"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.launch.remote.source"
+         download-size="42"
+         install-size="125"
+         version="2.4.0.201506020305"
+         unpack="false"/>
+
+</feature>

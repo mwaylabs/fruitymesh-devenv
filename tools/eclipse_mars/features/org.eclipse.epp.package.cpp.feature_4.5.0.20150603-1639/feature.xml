@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.epp.package.cpp.feature"
+      label="EPP CPP Feature"
+      version="4.5.0.20150603-1639"
+      provider-name="Eclipse Packaging Project"
+      plugin="org.eclipse.epp.package.cpp">
+
+   <description url="http://eclipse.org/epp">
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <url>
+      <discovery label="Mars" url="http://download.eclipse.org/releases/mars/"/>
+      <discovery label="Eclipse Platform 4.5" url="http://download.eclipse.org/eclipse/updates/4.5"/>
+   </url>
+
+   <!-- see p2.inf file for optionally imported Linux Tools features -->
+
+   <requires>
+      <import feature="org.eclipse.equinox.p2.user.ui"/>
+      <import feature="org.eclipse.help"/>
+      <import feature="org.eclipse.platform"/>
+      <import feature="org.eclipse.rcp"/>
+      <import feature="org.eclipse.cdt"/>
+      <import feature="org.eclipse.cdt.debug.ui.memory"/>
+      <import feature="org.eclipse.cdt.msw"/>
+      <import feature="org.eclipse.cdt.build.crossgcc"/>
+      <import feature="org.eclipse.cdt.launch.remote"/>
+      <import feature="org.eclipse.cdt.autotools"/>
+      <import feature="org.eclipse.cdt.mylyn"/>
+      <import feature="org.eclipse.mylyn_feature"/>
+      <import feature="org.eclipse.mylyn.context_feature"/>
+      <import feature="org.eclipse.mylyn.team_feature"/>
+      <import feature="org.eclipse.mylyn.ide_feature"/>
+      <import feature="org.eclipse.mylyn.bugzilla_feature"/>
+      <import feature="org.eclipse.mylyn.wikitext_feature"/>
+      <import feature="org.eclipse.rse"/>
+      <import feature="org.eclipse.egit"/>
+      <import feature="org.eclipse.egit.import"/>
+      <import feature="org.eclipse.cdt.debug.standalone"/>
+      <import feature="org.eclipse.epp.package.common.feature"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.epp.package.cpp"
+         download-size="57"
+         install-size="181"
+         version="4.5.0.20150603-1639"/>
+
+</feature>

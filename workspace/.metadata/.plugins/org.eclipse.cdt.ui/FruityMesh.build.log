@@ -1,0 +1,12 @@
+10:09:03 **** Incremental Build of configuration Debug for project FruityMesh ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley --totals --radix=10 "FruityMesh.elf"
+   text	   data	    bss	    dec	    hex	filename
+ 121863	    348	   2600	 124811	  1e78b	FruityMesh.elf
+ 121863	    348	   2600	 124811	  1e78b	(TOTALS)
+Finished building: FruityMesh.siz
+ 
+
+10:09:03 Build Finished (took 380ms)
+

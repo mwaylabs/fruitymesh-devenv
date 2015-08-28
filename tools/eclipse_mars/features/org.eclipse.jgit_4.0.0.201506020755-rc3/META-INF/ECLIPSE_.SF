@@ -1,0 +1,25 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: s1zvNTHrmO+emghFazSUFhinU6/8E
+ BQm7O1aeNpWuAs=
+SHA-256-Digest-Manifest: 9uuHr0uAnXJ2VifWO6KLm9UHR0gpToTvAPDjvKVPndE=
+Created-By: 1.8.0_40 (Oracle Corporation)
+
+Name: edl-v10.html
+SHA-256-Digest: 0FBm4OUAXGvl8wxUEXlOZ7fhnbd070FwryVpHg00FAw=
+
+Name: feature.xml
+SHA-256-Digest: mbGtq0W9yFYT+pqRjS5siN2ffR0YMoNyk5hn6jYLhRg=
+
+Name: feature.properties
+SHA-256-Digest: nG9nsj1RXxBbzRI3JJzT2AZbwahUs8AKgPQrhORMHfg=
+
+Name: license.html
+SHA-256-Digest: ZbE5GHQ1iNeTAnPMjqq4ZqZ7fRClcw5W7xzwIgPQ8cY=
+
+Name: META-INF/maven/org.eclipse.jgit.feature/org.eclipse.jgit/pom.xml
+SHA-256-Digest: azEL8zw9gco3UmNONMV6g9hLbk86c3TAc7qekdjgPZI=
+
+Name: META-INF/maven/org.eclipse.jgit.feature/org.eclipse.jgit/pom.pro
+ perties
+SHA-256-Digest: o2ECnoLU0euDsbLGzubOg+CxKXcfoEPXYKOzxYdou9o=
+

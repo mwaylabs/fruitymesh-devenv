@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: genie.ptp
+Build-Jdk: 1.7.0_75
+Created-By: Apache Maven
+
+Name: epl-v10.html
+SHA-256-Digest: T9ZK7tNA1ipkqNpLNx7+D20NdF9NLb76y6hsZG02vHI=
+
+Name: feature.xml
+SHA-256-Digest: 9ulhHrHF5nrqg3tDjm88yEdXPaUe7QihZ3mZHv066cY=
+
+Name: eclipse_update_120.jpg
+SHA-256-Digest: Hz0atd2kr+i4cvgLVlm8vrN9olKs5NgxwdDxTuA9N2k=
+
+Name: feature.properties
+SHA-256-Digest: iR8LBrRaAxszkz/LfPSqcl3v/z8+UgcsGxjs9EJ7OlI=
+
+Name: META-INF/maven/org.eclipse.remote/org.eclipse.remote/pom.xml
+SHA-256-Digest: Qe+BeUNW/Ep7E5A+4BdTzdkhB8fhZZNTnMr/evbo9hA=
+
+Name: META-INF/maven/org.eclipse.remote/org.eclipse.remote/pom.propert
+ ies
+SHA-256-Digest: Xiy1mRN1WdrPfxyE4Ni8CGseC21KCqMtBAZBIKbpsZk=
+
+Name: license.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+

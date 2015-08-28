@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='download cache' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.system' value='true'/>
+    <property name='p2.timestamp' value='1434626561405'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='10'>
+    <artifact classifier='binary' id='org.eclipse.platform.ide.executable.win32.win32.x86_64' version='4.5.0.I20150522-2000'>
+      <properties size='1'>
+        <property name='download.size' value='35113'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.cdt_root' version='8.7.0.201506020305'>
+      <properties size='1'>
+        <property name='download.size' value='2410'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.platform_root' version='4.5.0.v20150522-2234'>
+      <properties size='1'>
+        <property name='download.size' value='195'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp_root' version='4.5.0.v20150528-0700'>
+      <properties size='1'>
+        <property name='download.size' value='28458'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.rcp_root' version='4.5.0.v20150522-2000'>
+      <properties size='1'>
+        <property name='download.size' value='28465'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='epp.package.cpp.executable.win32.win32.x86_64' version='4.5.0.20150528-0539'>
+      <properties size='1'>
+        <property name='download.size' value='35112'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='epp.package.cpp.executable.win32.win32.x86_64' version='4.5.0.20150603-1639'>
+      <properties size='1'>
+        <property name='download.size' value='35112'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.platform.ide.executable.win32.win32.x86_64' version='4.5.0.I20150528-0700'>
+      <properties size='1'>
+        <property name='download.size' value='35113'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.platform_root' version='4.5.0.v20150528-0700'>
+      <properties size='1'>
+        <property name='download.size' value='195'/>
+      </properties>
+    </artifact>
+    <artifact classifier='binary' id='org.eclipse.cdt_root' version='8.7.0.201505250904'>
+      <properties size='1'>
+        <property name='download.size' value='2410'/>
+      </properties>
+    </artifact>
+  </artifacts>
+</repository>

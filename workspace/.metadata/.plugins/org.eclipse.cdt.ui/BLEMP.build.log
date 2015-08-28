@@ -1,0 +1,11 @@
+10:09:02 **** Incremental Build of configuration Debug - S130 for project BLEMP ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "BLEMP.elf"
+   text	   data	    bss	    dec	    hex	filename
+  43632	   1176	   3680	  48488	   bd68	BLEMP.elf
+Finished building: BLEMP.siz
+ 
+
+10:09:02 Build Finished (took 523ms)
+

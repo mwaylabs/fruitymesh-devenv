@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="org.eclipse.cdt.msw"
+      label="C/C++ Visual C++ Support"
+      version="8.7.0.201506020305"
+      provider-name="Eclipse CDT">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.cdt.msw.build"
+         download-size="17"
+         install-size="54"
+         version="1.0.0.201506020305"
+         unpack="false"/>
+
+</feature>

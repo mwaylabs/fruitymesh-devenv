@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: genie.tracecompass
+Build-Jdk: 1.7.0_75
+Created-By: Apache Maven 3.0.5
+
+Name: p2.inf
+SHA-256-Digest: /ijKJvH1NguzQfZg4VI5zImUL3Lo+kdHdG9oQjoYWds=
+
+Name: epl-v10.html
+SHA-256-Digest: mpbQ2vmKpvtKpTDTmcdCxmEhsL2uSh9/+iLSE14d9/0=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass
+ .tmf/pom.properties
+SHA-256-Digest: 5jJefv54JdDmcz4ywF+3w+b7k8MzPbUsG+PhZnN3wag=
+
+Name: META-INF/maven/org.eclipse.tracecompass/org.eclipse.tracecompass
+ .tmf/pom.xml
+SHA-256-Digest: 303X16bRgfh1ehMwqJ4/vpuRUnO7ue0KRXDdu6Jd30o=
+
+Name: feature.xml
+SHA-256-Digest: 8UkEiB7/VVWPjr1y2Qu9l7mgz3CVRGnaGbW4FuOYdB0=
+
+Name: feature.properties
+SHA-256-Digest: pkV1cnsLHB36fHzVbbNa1wHA1qO98tlaidGFSFs6wz8=
+
+Name: license.html
+SHA-256-Digest: X315zLynvdLZ4DaYSopgxruQUUEadA3FOPNviC+YO24=
+
