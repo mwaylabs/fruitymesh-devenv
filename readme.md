@@ -33,16 +33,20 @@ Some tools could not be distributed in this package and have to be downloaded ma
 
 You should install these tools to their default installation path.
 
+#### 3. Download the nRF51 SDK
+
 You must also download the nRF51 SDK 9.0.0 from this location:
 nRF51 9.0.0 SDK: https://developer.nordicsemi.com/nRF51_SDK/nRF51_SDK_v9.x.x/nRF51_SDK_9.0.0_2e23562.zip
 
-Put the unzipped sdk files under C:\nrf\sdk\nrf_sdk_9_0 so that the folder contains components, documentation, etc...
+Put the unzipped sdk files under `C:\nrf\sdk\nrf_sdk_9_0` so that the folder contains components, documentation, etc...
 
-#### 3. Download the S130 softdevice
+#### 4. Download the S130 softdevice
 Download the production Release of the S13 SoftDevice and place the hex file in the folder: `C:\nrf\softdevices\sd130_1.0.0-prod`
 
-#### 4. Edit the setup.bat file
+S130: https://www.nordicsemi.com/eng/Products/nRF51-Dongle#Download
+
+#### 5. Edit the setup.bat file
 You should now open the setup.bat file in a text editor of your choice and configure all the paths at the beginning of the script so that they point to the correct directories. After you have done that, you can 
 
-#### 5. Open Eclipse and start developing
+#### 6. Open Eclipse and start developing
 Open eclipse which is located under `C:\nrf\tools\eclipse_mars` and set your Workspace directory to `C:\nrf\workspace`. You might have to import the fruitymesh project from `C:\nrf\projects\fruitymesh` and then you should be ready to go.
