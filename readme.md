@@ -40,6 +40,13 @@ nRF51 9.0.0 SDK: https://developer.nordicsemi.com/nRF51_SDK/nRF51_SDK_v9.x.x/nRF
 
 Put the unzipped sdk files under `C:\nrf\sdk\nrf_sdk_9_0` so that the folder contains components, documentation, etc...
 
+##### Fix one of the SDK files
+This step is important: You must now edit the file `nrf_svc.h` which can be found in `C:\nrf\sdk\nrf_sdk_9_0\components\softdevice\s130\headers`.
+
+You have to add a (uint16_t) cast somewhere around line 56. Afterwards it should look like this:
+```C++
+"bx r14" : : "I" ((uint16_t)number) : "r0" \
+```
 #### 4. Download the S130 softdevice
 Download the production Release of the S13 SoftDevice and place the hex file in the folder: `C:\nrf\softdevices\sd130_1.0.0-prod`
 
