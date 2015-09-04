@@ -100,6 +100,6 @@ S130: https://www.nordicsemi.com/eng/Products/nRF51-Dongle#Download
 You should now open the setup.sh file in a text editor of your choice and configure all the paths at the beginning of the script so that they point to the correct directories.
 
 #### 5. Compiling and developing
-For FruityMesh, a custom build script is provided for Linux and OSX, located in `${HOME}/nrf/projects/compile.sh`. Once executed, it will compile any C/C++ files and create a flashable HEX file in the Debug folder. For your own projects, you can just copy it and modify the include paths.
+For FruityMesh, a custom build script is provided for Linux and OSX. If you chose to clone FruityMesh when executing the setup.sh script, the build script is located in `${HOME}/nrf/projects/FruityMesh/compile.sh`. Once executed, it will compile any C/C++ files and create a flashable HEX file in the Debug folder. For your own projects, you can just copy it and modify the include paths.
 
 For developing, you may use any IDE you like. Unfortunately, there is no Eclipse package provided which will compile the project for you on Linux and OSX, so when developing on these platforms, you may code using your favorite IDE and compile using the provided compile script.
