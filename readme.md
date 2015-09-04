@@ -64,7 +64,7 @@ Open eclipse which is located under `C:\nrf\tools\eclipse_mars` and set your Wor
 ## Installation (Linux and OSX)
 
 #### 1. Clone this repository
-Clone this repository or download it as a zip package and put its contents to `${HOME}/nrf` (on Linux, this should be /home/(your username)/nrf, on OSX, it should be /Users/(your username)/nrf).
+Clone this repository or download it as a zip package and put its contents to `${HOME}/nrf` (on Linux, this should be `/home/(your username)/nrf`, on OSX, it should be `/Users/(your username)/nrf)`.
 This should give you the following folder structure:
 <pre>
 ${HOME}/
