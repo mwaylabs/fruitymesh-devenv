@@ -12,7 +12,7 @@ Sadly, some of the tools have a restricted licence which does not allow redistri
 
 In order to set up your development machine for developing with FruityMesh, you have to follow these steps:
 
-## Installation (Windows)
+## Installation
 
 #### 1. Clone this repository
 Clone this repository or download it as a zip package and put its contents to `C:\nrf\` (Linux: `/home/(your username)/nrf`, OSX: `/Users/(your username)/nrf`)
