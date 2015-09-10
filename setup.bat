@@ -14,9 +14,10 @@ SET NRF_GO_STUDIO="C:\Program Files (x86)\Nordic Semiconductor\nRFgo Studio"
 REM ---- SDK stuff ----
 SET INSTALL_PATH=C:\nrf
 
-SET EHAL_PATH="%INSTALL_PATH%\sdk\ehal_2015_06_01"
+SET EHAL_PATH="%INSTALL_PATH%\sdk\ehal_2015_09_08"
 SET CMSIS_PATH="%INSTALL_PATH%\sdk\arm_cmsis_4_3"
-SET NRF_SDK_PATH="%INSTALL_PATH%\sdk\nrf_sdk_9_0"
+SET NRF51_SDK_PATH="%INSTALL_PATH%\sdk\nrf_sdk_9_0"
+SET NRF52_SDK_PATH="%INSTALL_PATH%\sdk\nrf52_sdk_0_9_1"
 
 REM ------------------- DO NOT EDIT BELOW THIS LINE --------------------------
 
@@ -46,17 +47,23 @@ mklink /J CMSIS %CMSIS_PATH%
 
 
 cd %EHAL_PATH%\ARM\Nordic\nRF51
-
 rmdir /q nrf51_sdk
-mklink /J nrf51_sdk %NRF_SDK_PATH%
+mklink /J nrf51_sdk %NRF51_SDK_PATH%
+
+cd %EHAL_PATH%\ARM\Nordic\nRF52
+rmdir /q nrf52_sdk
+mklink /J nrf52_sdk %NRF52_SDK_PATH%
 
 cd %INSTALL_PATH%\sdk
 
 rmdir /q ehal_latest
 mklink /J ehal_latest %EHAL_PATH%
 
-rmdir /q nrf_sdk_latest
-mklink /J nrf_sdk_latest %NRF_SDK_PATH%
+rmdir /q nrf51_sdk_latest
+mklink /J nrf51_sdk_latest %NRF51_SDK_PATH%
+
+rmdir /q nrf52_sdk_latest
+mklink /J nrf52_sdk_latest %NRF52_SDK_PATH%
 
 REM -----------------------------------------------------------
 echo.

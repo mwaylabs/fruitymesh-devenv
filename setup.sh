@@ -13,9 +13,10 @@ JLINK_COMMANDER_PATH="${HOME}/JLink_Linux_V498e_x86_64"
 # ---- SDK stuff ----
 INSTALL_PATH="${HOME}/nrf"
 
-EHAL_PATH="${INSTALL_PATH}/sdk/ehal_2015_06_01"
+EHAL_PATH="${INSTALL_PATH}/sdk/ehal_2015_09_08"
 CMSIS_PATH="${NSTALL_PATH}/sdk/arm_cmsis_4_3"
-NRF_SDK_PATH="${INSTALL_PATH}/sdk/nrf_sdk_9_0"
+NRF51_SDK_PATH="${INSTALL_PATH}/sdk/nrf_sdk_9_0"
+NRF52_SDK_PATH="${INSTALL_PATH}/sdk/nrf52_sdk_0_9_1"
 
 # ------------------- DO NOT EDIT BELOW THIS LINE --------------------------
 
@@ -41,24 +42,30 @@ ln -s ${CMSIS_PATH} CMSIS
 
 
 cd ${EHAL_PATH}/ARM/Nordic/nRF51
-
 rm -f nrf51_sdk
-ln -s ${NRF_SDK_PATH} nrf51_sdk
+ln -s ${NRF51_SDK_PATH} nrf51_sdk
+
+cd ${EHAL_PATH}/ARM/Nordic/nRF52
+rm -f nrf52_sdk
+ln -s ${NRF52_SDK_PATH} nrf52_sdk
 
 cd ${INSTALL_PATH}/sdk
 
 rm -f ehal_latest
 ln -s ${EHAL_PATH} ehal_latest
 
-rm -f nrf_sdk_latest
-ln -s ${NRF_SDK_PATH} nrf_sdk_latest
+rm -f nrf51_sdk_latest
+ln -s ${NRF51_SDK_PATH} nrf51_sdk_latest
+
+rm -f nrf52_sdk_latest
+ln -s ${NRF52_SDK_PATH} nrf52_sdk_latest
 
 # -----------------------------------------------------------
 echo
 echo
 echo "Now, we are cloning the fruitymesh project in the projects directory"
 echo "press any key to continue"
-echo "if you want to clone it yourself, just press CTRL+C now"
+echo "if you want to clone it yourself, press CTRL+C"
 
 read
 
