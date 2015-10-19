@@ -66,3 +66,7 @@ Open eclipse which is located under `C:\nrf\tools\eclipse_mars` and set your Wor
 For FruityMesh, a custom build script is provided for Linux and OSX. If you chose to clone FruityMesh when executing the setup.sh script, the build script is located in `${HOME}/nrf/projects/FruityMesh/compile.sh`. Once executed, it will compile any C/C++ files and create a flashable HEX file in the Debug folder. For your own projects, you can just copy it and modify the include paths.
 
 For developing, you may use any IDE you like. Unfortunately, there is no Eclipse package provided which will compile the project for you on Linux and OSX, so when developing on these platforms, you may code using your favorite IDE and compile using the provided compile script.
+
+#### 6b. Development using an Ubuntu VM
+
+You can set up an Ubuntu VM with all needed infrastructure using [this repo](https://github.com/ihassin/fruity-ubuntu-vm).
