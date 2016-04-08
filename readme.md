@@ -50,7 +50,7 @@ You have to change a uint8_t cast at line 55. Afterwards it should look like thi
 #define GCC_CAST_CPP (uint16_t) \
 ```
 
-Next, you should follow this forum post: `https://devzone.nordicsemi.com/question/71636/ble_radio_notification-wont-compile/` and replace the radio_notification module files with these versions. The SDK files have errors and do not compile.
+Next, you should follow this forum post: https://devzone.nordicsemi.com/question/71636/ble_radio_notification-wont-compile/ and replace the radio_notification module files with these versions. The SDK files have errors and do not compile.
 
 #### 4. Download the S130 softdevice
 Download the production Release of the S130 v2.0 SoftDevice and place the hex file in the folder: `./softdevices/sd130_2.0.0-prod`
