@@ -37,22 +37,23 @@ You should install these tools to their default installation path.
 
 #### 3. Download the nRF51 SDK
 
-You must also download the nRF51 SDK 9.0.0 from this location:
-nRF51 9.0.0 SDK: https://developer.nordicsemi.com/nRF51_SDK/nRF51_SDK_v9.x.x/nRF51_SDK_9.0.0_2e23562.zip
+You must also download the latest nRF51 SDK 11.0.0 from this location:
+nRF51 11.0.0 SDK: https://developer.nordicsemi.com/nRF5_SDK/nRF5_SDK_v11.x.x/
 
-Put the unzipped sdk files under `./sdk/nrf_sdk_9_0` so that the folder contains components, documentation, etc...
+Put the unzipped sdk files under `./sdk/nrf_sdk_11_0` so that the folder contains components, documentation, etc...
 
-If you want to compile for the nRF52, you should download the corresponding SDK as well.
+##### Fix some of the SDK files
+This step is important, because there are bugs in the SDK: You must now edit the file `nrf_svc.h`. It can be found in `./sdk/nrf_sdk_11_0/components/softdevice/s130/headers`.
 
-##### Fix one of the SDK files
-This step is important: You must now edit the file `nrf_svc.h` for all your used softdevices. It can be found in `./sdk/nrf_sdk_9_0/components/softdevice/s130/headers`.
-
-You have to add a (uint16_t) cast somewhere around line 56. Afterwards it should look like this:
+You have to change a uint8_t cast at line 55. Afterwards it should look like this:
 ```C++
-"bx r14" : : "I" ((uint16_t)number) : "r0" \
+#define GCC_CAST_CPP (uint16_t) \
 ```
+
+Next, you should follow this forum post: `https://devzone.nordicsemi.com/question/71636/ble_radio_notification-wont-compile/` and replace the radio_notification module files with these versions. The SDK files have errors and do not compile.
+
 #### 4. Download the S130 softdevice
-Download the production Release of the S130 SoftDevice and place the hex file in the folder: `./softdevices/sd130_1.0.0-prod`
+Download the production Release of the S130 v2.0 SoftDevice and place the hex file in the folder: `./softdevices/sd130_2.0.0-prod`
 
 S130: https://www.nordicsemi.com/eng/Products/nRF51-Dongle#Download
 
