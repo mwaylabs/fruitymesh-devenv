@@ -45,9 +45,9 @@ Put the unzipped sdk files under `./sdk/nrf_sdk_11_0` so that the folder contain
 ##### Fix some of the SDK files
 This step is important, because there are bugs in the SDK: You must now edit the file `nrf_svc.h`. It can be found in `./sdk/nrf_sdk_11_0/components/softdevice/s130/headers`.
 
-You have to change a uint8_t cast at line 55. Afterwards it should look like this:
+Change a uint8_t cast to uint16_t around line 55. Afterwards it should look somthing like this:
 ```C++
-#define GCC_CAST_CPP (uint16_t) \
+#define GCC_CAST_CPP (uint16_t)
 ```
 
 Next, you should follow this forum post: https://devzone.nordicsemi.com/question/71636/ble_radio_notification-wont-compile/ and replace the radio_notification module files with these versions. The SDK files have errors and do not compile.
